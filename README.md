@@ -1,5 +1,6 @@
-# Ruby on Rails Tutorial: sample application
+# Rails Practice App
 
-This is the sample application for
+This is a practice application that uses Sample App from
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
+by [Michael Hartl](http://michaelhartl.com/) as
+a starting point.
